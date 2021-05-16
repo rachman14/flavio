@@ -1,4 +1,13 @@
 # This file contains all the experimental measurements.
+Pedri:
+  experiment: Pedri
+  values:
+      - name: <FL>(B0->K*mumu)
+      q2min: 0.1
+      q2max: 0.98
+
+
+
 Sindrum II Ti 1993:
   experiment: SINDRUM II
   inspire: Dohmen:1993mp
