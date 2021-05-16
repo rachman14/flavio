@@ -5,7 +5,7 @@ Pedri:
     - name: <FL>(B0->K*mumu)
       q2min: 0.1
       q2max: 0.98
-      value: 0.255 +0.032-0.032 ± 0.007
+      value:  0.255 +0.032-0.032 ± 0.007
 
 Sindrum II Ti 1993:
   experiment: SINDRUM II
