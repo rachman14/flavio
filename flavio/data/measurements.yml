@@ -19,22 +19,189 @@ LHCb Results 2016:
       q2max: 6.0
       value:  0.611 +0.052-0.053 ± 0.017
     - name: <FL>(B0->K*mumu)
-      q2min: 6.0
-      q2max: 8.0
-      value:  0.579 +0.046-0.046 ± 0.015
-    - name: <FL>(B0->K*mumu)
-      q2min: 11.0
-      q2max: 12.5
-      value:  0.493 +0.049-0.047 ± 0.013
-    - name: <FL>(B0->K*mumu)
       q2min: 15.0
-      q2max: 17.0
-      value:  0.349 +0.039-0.039 ± 0.009
-    - name: <FL>(B0->K*mumu)
-      q2min: 17.0
       q2max: 19.0
-      value:  0.354 +0.049-0.048 ± 0.025
+      value: 0.344 +0.028-0.030 ± 0.008
+    - name: <FL>(B0->K*mumu)
+      q2min: 1.1
+      q2max: 6.0
+      value:  0.690 +0.035-0.036 ± 0.017
+      
+    - name: <S3>(B0->K*mumu)
+      q2min: 0.1
+      q2max: 0.98
+      value:  0.263 +0.045-0.044 ± 0.017
+    - name: <S3>(B0->K*mumu)
+      q2min: 1.1
+      q2max: 2.5
+      value:  0.660 +0.083-0.077 ± 0.022
+    - name: <S3>(B0->K*mumu)
+      q2min: 2.5
+      q2max: 4.0
+      value:  0.876 +0.109-0.097 ± 0.017
+    - name: <S3>(B0->K*mumu)
+      q2min: 4.0
+      q2max: 6.0
+      value:  0.611 +0.052-0.053 ± 0.017
+    - name: <S3>(B0->K*mumu)
+      q2min: 15.0
+      q2max: 19.0
+      value: 0.344 +0.028-0.030 ± 0.008
+    - name: <S3>(B0->K*mumu)
+      q2min: 1.1
+      q2max: 6.0
+      value:  0.690 +0.035-0.036 ± 0.017
 
+    - name: <S4>(B0->K*mumu)
+      q2min: 0.1
+      q2max: 0.98
+      value:  0.263 +0.045-0.044 ± 0.017
+    - name: <S4>(B0->K*mumu)
+      q2min: 1.1
+      q2max: 2.5
+      value:  0.660 +0.083-0.077 ± 0.022
+    - name: <S4>(B0->K*mumu)
+      q2min: 2.5
+      q2max: 4.0
+      value:  0.876 +0.109-0.097 ± 0.017
+    - name: <S4>(B0->K*mumu)
+      q2min: 4.0
+      q2max: 6.0
+      value:  0.611 +0.052-0.053 ± 0.017
+    - name: <S4>(B0->K*mumu)
+      q2min: 15.0
+      q2max: 19.0
+      value: 0.344 +0.028-0.030 ± 0.008
+    - name: <S4>(B0->K*mumu)
+      q2min: 1.1
+      q2max: 6.0
+      value:  0.690 +0.035-0.036 ± 0.017
+
+    - name: <S5>(B0->K*mumu)
+      q2min: 0.1
+      q2max: 0.98
+      value:  0.263 +0.045-0.044 ± 0.017
+    - name: <S5>(B0->K*mumu)
+      q2min: 1.1
+      q2max: 2.5
+      value:  0.660 +0.083-0.077 ± 0.022
+    - name: <S5>(B0->K*mumu)
+      q2min: 2.5
+      q2max: 4.0
+      value:  0.876 +0.109-0.097 ± 0.017
+    - name: <S5>(B0->K*mumu)
+      q2min: 4.0
+      q2max: 6.0
+      value:  0.611 +0.052-0.053 ± 0.017
+    - name: <S5>(B0->K*mumu)
+      q2min: 15.0
+      q2max: 19.0
+      value: 0.344 +0.028-0.030 ± 0.008
+    - name: <S5>(B0->K*mumu)
+      q2min: 1.1
+      q2max: 6.0
+      value:  0.690 +0.035-0.036 ± 0.017
+
+    - name: <AFB>(B0->K*mumu)
+      q2min: 0.1
+      q2max: 0.98
+      value:  0.263 +0.045-0.044 ± 0.017
+    - name: <AFB>(B0->K*mumu)
+      q2min: 1.1
+      q2max: 2.5
+      value:  0.660 +0.083-0.077 ± 0.022
+    - name: <AFB>(B0->K*mumu)
+      q2min: 2.5
+      q2max: 4.0
+      value:  0.876 +0.109-0.097 ± 0.017
+    - name: <AFB>(B0->K*mumu)
+      q2min: 4.0
+      q2max: 6.0
+      value:  0.611 +0.052-0.053 ± 0.017
+    - name: <AFB>(B0->K*mumu)
+      q2min: 15.0
+      q2max: 19.0
+      value: 0.344 +0.028-0.030 ± 0.008
+    - name: <AFB>(B0->K*mumu)
+      q2min: 1.1
+      q2max: 6.0
+      value:  0.690 +0.035-0.036 ± 0.017
+
+    - name: <S7>(B0->K*mumu)
+      q2min: 0.1
+      q2max: 0.98
+      value:  0.263 +0.045-0.044 ± 0.017
+    - name: <S7>(B0->K*mumu)
+      q2min: 1.1
+      q2max: 2.5
+      value:  0.660 +0.083-0.077 ± 0.022
+    - name: <S7>(B0->K*mumu)
+      q2min: 2.5
+      q2max: 4.0
+      value:  0.876 +0.109-0.097 ± 0.017
+    - name: <S7>(B0->K*mumu)
+      q2min: 4.0
+      q2max: 6.0
+      value:  0.611 +0.052-0.053 ± 0.017
+    - name: <S7>(B0->K*mumu)
+      q2min: 15.0
+      q2max: 19.0
+      value: 0.344 +0.028-0.030 ± 0.008
+    - name: <S7>(B0->K*mumu)
+      q2min: 1.1
+      q2max: 6.0
+      value:  0.690 +0.035-0.036 ± 0.017
+
+    - name: <S8>(B0->K*mumu)
+      q2min: 0.1
+      q2max: 0.98
+      value:  0.263 +0.045-0.044 ± 0.017
+    - name: <S8>(B0->K*mumu)
+      q2min: 1.1
+      q2max: 2.5
+      value:  0.660 +0.083-0.077 ± 0.022
+    - name: <S8>(B0->K*mumu)
+      q2min: 2.5
+      q2max: 4.0
+      value:  0.876 +0.109-0.097 ± 0.017
+    - name: <S8>(B0->K*mumu)
+      q2min: 4.0
+      q2max: 6.0
+      value:  0.611 +0.052-0.053 ± 0.017
+    - name: <S8>(B0->K*mumu)
+      q2min: 15.0
+      q2max: 19.0
+      value: 0.344 +0.028-0.030 ± 0.008
+    - name: <S8>(B0->K*mumu)
+      q2min: 1.1
+      q2max: 6.0
+      value:  0.690 +0.035-0.036 ± 0.017
+      
+    - name: <S9>(B0->K*mumu)
+      q2min: 0.1
+      q2max: 0.98
+      value:  0.263 +0.045-0.044 ± 0.017
+    - name: <S9>(B0->K*mumu)
+      q2min: 1.1
+      q2max: 2.5
+      value:  0.660 +0.083-0.077 ± 0.022
+    - name: <S9>(B0->K*mumu)
+      q2min: 2.5
+      q2max: 4.0
+      value:  0.876 +0.109-0.097 ± 0.017
+    - name: <S9>(B0->K*mumu)
+      q2min: 4.0
+      q2max: 6.0
+      value:  0.611 +0.052-0.053 ± 0.017
+    - name: <S9>(B0->K*mumu)
+      q2min: 15.0
+      q2max: 19.0
+      value: 0.344 +0.028-0.030 ± 0.008
+    - name: <S9>(B0->K*mumu)
+      q2min: 1.1
+      q2max: 6.0
+      value:  0.690 +0.035-0.036 ± 0.017  
+      
 Sindrum II Ti 1993:
   experiment: SINDRUM II
   inspire: Dohmen:1993mp
