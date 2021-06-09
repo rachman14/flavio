@@ -1,4 +1,91 @@
 # This file contains all the experimental measurements.
+Results July 2011:
+  experiments: July 2011
+  url: https://arxiv.org/abs/1107.3753
+  values:
+    - name: <dBR/dq2>(Lambdab->Lambdamumu)
+      q2min: 1
+      q2max: 6
+      value:  0.263 +0.045-0.044 ± 0.017
+    - name: <dBR/dq2>(Lambdab->Lambdamumu)
+      q2min: 14.18
+      q2max: 16
+      value:  0.263 +0.045-0.044 ± 0.017
+    - name: <dBR/dq2>(Lambdab->Lambdamumu)
+      q2min: 16
+      q2max: 23
+      value:  0.263 +0.045-0.044 ± 0.017
+      
+    - name: <dBR/dq2>(B+->Kmumu)
+      q2min: 1
+      q2max: 6
+      value:  0.263 +0.045-0.044 ± 0.017     
+    - name: <dBR/dq2>(B+->Kmumu)
+      q2min: 14.18
+      q2max: 16
+      value:  0.263 +0.045-0.044 ± 0.017       
+    - name: <dBR/dq2>(B+->Kmumu)
+      q2min: 16
+      q2max: 20.3
+      value:  0.263 +0.045-0.044 ± 0.017 
+      
+    - name: <dBR/dq2>(B0->Kmumu)
+      q2min: 1
+      q2max: 6
+      value:  0.263 +0.045-0.044 ± 0.017     
+    - name: <dBR/dq2>(B0->Kmumu)
+      q2min: 14.18
+      q2max: 16
+      value:  0.263 +0.045-0.044 ± 0.017       
+    - name: <dBR/dq2>(B0->Kmumu)
+      q2min: 16
+      q2max: 23
+      value:  0.263 +0.045-0.044 ± 0.017       
+      
+      
+    - name: <dBR/dq2>(Bs->phimumu)
+      q2min: 1
+      q2max: 6
+      value:  0.263 +0.045-0.044 ± 0.017
+    - name: <dBR/dq2>(Bs->phimumu)
+      q2min: 14.18
+      q2max: 16
+      value:  0.263 +0.045-0.044 ± 0.017      
+    - name: <dBR/dq2>(Bs->phimumu)
+      q2min: 16
+      q2max: 18.9
+      value:  0.263 +0.045-0.044 ± 0.017      
+      
+      
+      
+    - name: <dBR/dq2>(B0->K*mumu)
+      q2min: 1
+      q2max: 6
+      value:  0.263 +0.045-0.044 ± 0.017
+    - name: <dBR/dq2>(B0->K*mumu)
+      q2min: 14.18
+      q2max: 16
+      value:  0.263 +0.045-0.044 ± 0.017      
+    - name: <dBR/dq2>(B0->K*mumu)
+      q2min: 16
+      q2max: 19.3
+      value:  0.263 +0.045-0.044 ± 0.017      
+      
+      
+    - name: <dBR/dq2>(B+->Kmumu)
+      q2min: 1
+      q2max: 6
+      value:  0.263 +0.045-0.044 ± 0.017
+    - name: <dBR/dq2>(B+->Kmumu)
+      q2min: 14.18
+      q2max: 16
+      value:  0.263 +0.045-0.044 ± 0.017      
+    - name: <dBR/dq2>(B+->Kmumu)
+      q2min: 16
+      q2max: 19.3
+      value:  0.263 +0.045-0.044 ± 0.017      
+      
+
 LHCb Results 2016:
   experiment: LHCb Past Results
   values:
