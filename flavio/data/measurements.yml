@@ -65,27 +65,26 @@ Results July 2011:
     - name: <dBR/dq2>(B0->K*mumu)
       q2min: 14.18
       q2max: 16
-      value:  1.34 +0.26-0.26 ± 0.08      
+      value:  1.34 +0.26-0.26 ± 0.08     
     - name: <dBR/dq2>(B0->K*mumu)
       q2min: 16
       q2max: 19.3
-      value:  0.97 +0.26-0.26 ± 0.07      
+      value:  0.97 +0.26-0.26 ± 0.07
       
 
     - name: <dBR/dq2>(B+->K*mumu)
       q2min: 1
       q2max: 6
       value:  2.57 +1.61-1.61 ± 0.40
-    - name: <dBR/dq2>(B+->Kmumu)
+    - name: <dBR/dq2>(B+->K*mumu)
       q2min: 14.18
       q2max: 16
-      value:  0.52 +0.61-0.61 ± 0.09      
-    - name: <dBR/dq2>(B+->Kmumu)
+      value:  0.52 +0.61-0.61 ± 0.09
+    - name: <dBR/dq2>(B+->K*mumu)
       q2min: 16
       q2max: 19.3
-      value:  1.57 +0.96-0.96 ± 0.17      
+      value:  1.57 +0.96-0.96 ± 0.17
       
-
 LHCb Results 2016:
   experiment: LHCb Past Results
   values:
