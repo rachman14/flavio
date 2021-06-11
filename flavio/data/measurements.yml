@@ -1,6 +1,6 @@
 # This file contains all the experimental measurements.
 Results July 2011:
-  experiments: July 2011
+  experiment: July 2011
   url: https://arxiv.org/abs/1107.3753
   values:
     - name: <dBR/dq2>(Lambdab->Lambdamumu)
