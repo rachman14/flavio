@@ -3,6 +3,8 @@ Results July 2011:
   experiment: July 2011
   url: https://arxiv.org/abs/1107.3753
   values:
+    BR(Bs->mumu): 1.8 +1.1-0.9 e-8
+
     - name: <dBR/dq2>(Lambdab->Lambdamumu)
       q2min: 1
       q2max: 6
