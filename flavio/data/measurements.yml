@@ -1,48 +1,48 @@
 # This file contains all the experimental measurements.
 
-B0->K*mumu August 2011 Part 2:
-  experiment: B0->K*mumu August 2011 Part 2
-  url: https://arxiv.org/abs/1108.0695
-  values:
-    - name: <AFB>(B0->K*mumu)
-      q2min: 1
-      q2max: 6
-      value: −0.10+0.14−0.14 ± 0.05
-    - name: <AFB>(B0->K*mumu)
-      q2min: 14.18
-      q2max: 16
-      value: 0.50 +0.06−0.09 ± 0.03      
-    - name: <AFB>(B0->K*mumu)
-      q2min: 16
-      q2max: 19.3
-      value: 0.10 −0.13−0.13 ± 0.06
+# B0->K*mumu August 2011 Part 2:
+#   experiment: B0->K*mumu August 2011 Part 2
+#   url: https://arxiv.org/abs/1108.0695
+#   values:
+#     - name: <AFB>(B0->K*mumu)
+#       q2min: 1
+#       q2max: 6
+#       value: −0.10+0.14−0.14 ± 0.05
+#     - name: <AFB>(B0->K*mumu)
+#       q2min: 14.18
+#       q2max: 16
+#       value: 0.50 +0.06−0.09 ± 0.03      
+#     - name: <AFB>(B0->K*mumu)
+#       q2min: 16
+#       q2max: 19.3
+#       value: 0.10 −0.13−0.13 ± 0.06
       
-    - name: <FL>(B0->K*mumu)
-      q2min: 1
-      q2max: 6
-      value: 0.57 +0.11−0.10 ± 0.03      
-    - name: <FL>(B0->K*mumu)
-      q2min: 14.18
-      q2max: 16
-      value: 0.33 +0.11−0.08 ± 0.04     
-    - name: <FL>(B0->K*mumu)
-      q2min: 16
-      q2max: 19.3
-      value: 0.28 +0.10−0.09 ± 0.04
+#     - name: <FL>(B0->K*mumu)
+#       q2min: 1
+#       q2max: 6
+#       value: 0.57 +0.11−0.10 ± 0.03      
+#     - name: <FL>(B0->K*mumu)
+#       q2min: 14.18
+#       q2max: 16
+#       value: 0.33 +0.11−0.08 ± 0.04     
+#     - name: <FL>(B0->K*mumu)
+#       q2min: 16
+#       q2max: 19.3
+#       value: 0.28 +0.10−0.09 ± 0.04
       
-    - name: <dBR/dq2>(B0->K*mumu)
-      q2min: 1
-      q2max: 6
-      value: 0.39 ± 0.06 ± 0.02      
-    - name: <dBR/dq2>(B0->K*mumu)
-      q2min: 14.18
-      q2max: 16
-      value: 0.59 ± 0.10 ± 0.03
+#     - name: <dBR/dq2>(B0->K*mumu)
+#       q2min: 1
+#       q2max: 6
+#       value: 0.39 ± 0.06 ± 0.02      
+#     - name: <dBR/dq2>(B0->K*mumu)
+#       q2min: 14.18
+#       q2max: 16
+#       value: 0.59 ± 0.10 ± 0.03
       
-    - name: <dBR/dq2>(B0->K*mumu)
-      q2min: 16
-      q2max: 19.3
-      value: 0.48 ± 0.08 ± 0.03      
+#     - name: <dBR/dq2>(B0->K*mumu)
+#       q2min: 16
+#       q2max: 19.3
+#       value: 0.48 ± 0.08 ± 0.03      
 
 
 B0->K*mumu August 2011 Part 1:
