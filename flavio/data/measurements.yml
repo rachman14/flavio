@@ -1,124 +1,124 @@
 # This file contains all the experimental measurements.
 
-B0->K*mumu August 2011 Part 2:
-  experiment: B0->K*mumu August 2011 Part 2
-  url: https://arxiv.org/abs/1108.0695
-  values:
-    - name: <AFB>(B0->K*mumu)
-      q2min: 1
-      q2max: 6
-      value: −0.10+0.14−0.14 ± 0.05
-    - name: <AFB>(B0->K*mumu)
-      q2min: 14.18
-      q2max: 16
-      value: 0.50 +0.06−0.09 ± 0.03      
-    - name: <AFB>(B0->K*mumu)
-      q2min: 16
-      q2max: 19.3
-      value: 0.10 −0.13−0.13 ± 0.06
+# B0->K*mumu August 2011 Part 2:
+#   experiment: B0->K*mumu August 2011 Part 2
+#   url: https://arxiv.org/abs/1108.0695
+#   values:
+#     - name: <AFB>(B0->K*mumu)
+#       q2min: 1
+#       q2max: 6
+#       value: −0.10+0.14−0.14 ± 0.05
+#     - name: <AFB>(B0->K*mumu)
+#       q2min: 14.18
+#       q2max: 16
+#       value: 0.50 +0.06−0.09 ± 0.03      
+#     - name: <AFB>(B0->K*mumu)
+#       q2min: 16
+#       q2max: 19.3
+#       value: 0.10 −0.13−0.13 ± 0.06
       
-    - name: <FL>(B0->K*mumu)
-      q2min: 1
-      q2max: 6
-      value: 0.57 +0.11−0.10 ± 0.03      
-    - name: <FL>(B0->K*mumu)
-      q2min: 14.18
-      q2max: 16
-      value: 0.33 +0.11−0.08 ± 0.04     
-    - name: <FL>(B0->K*mumu)
-      q2min: 16
-      q2max: 19.3
-      value: 0.28 +0.10−0.09 ± 0.04
+#     - name: <FL>(B0->K*mumu)
+#       q2min: 1
+#       q2max: 6
+#       value: 0.57 +0.11−0.10 ± 0.03      
+#     - name: <FL>(B0->K*mumu)
+#       q2min: 14.18
+#       q2max: 16
+#       value: 0.33 +0.11−0.08 ± 0.04     
+#     - name: <FL>(B0->K*mumu)
+#       q2min: 16
+#       q2max: 19.3
+#       value: 0.28 +0.10−0.09 ± 0.04
       
-    - name: <dBR/dq2>(B0->K*mumu)
-      q2min: 1
-      q2max: 6
-      value: 0.39 ± 0.06 ± 0.02      
-    - name: <dBR/dq2>(B0->K*mumu)
-      q2min: 14.18
-      q2max: 16
-      value: 0.59 ± 0.10 ± 0.03
+#     - name: <dBR/dq2>(B0->K*mumu)
+#       q2min: 1
+#       q2max: 6
+#       value: 0.39 ± 0.06 ± 0.02      
+#     - name: <dBR/dq2>(B0->K*mumu)
+#       q2min: 14.18
+#       q2max: 16
+#       value: 0.59 ± 0.10 ± 0.03
       
-    - name: <dBR/dq2>(B0->K*mumu)
-      q2min: 16
-      q2max: 19.3
-      value: 0.48 ± 0.08 ± 0.03      
+#     - name: <dBR/dq2>(B0->K*mumu)
+#       q2min: 16
+#       q2max: 19.3
+#       value: 0.48 ± 0.08 ± 0.03      
 
 
-B0->K*mumu August 2011 Part 1:
-  experiment: B0->K*mumu August 2011 Part 1
-  url: https://arxiv.org/abs/1108.0695
-  values:
-    - name: <AFB>(B0->K*mumu)
-      q2min: 1
-      q2max: 6
-      value: 0.36 +0.46-0.28 ± 0.11
-    - name: <AFB>(B0->K*mumu)
-      q2min: 14.18
-      q2max: 16
-      value: 0.40 +0.18-0.21 ± 0.07      
-    - name: <AFB>(B0->K*mumu)
-      q2min: 16
-      q2max: 19.3
-      value: 0.66 +0.18-0.26 ±0.19
+# B0->K*mumu August 2011 Part 1:
+#   experiment: B0->K*mumu August 2011 Part 1
+#   url: https://arxiv.org/abs/1108.0695
+#   values:
+#     - name: <AFB>(B0->K*mumu)
+#       q2min: 1
+#       q2max: 6
+#       value: 0.36 +0.46-0.28 ± 0.11
+#     - name: <AFB>(B0->K*mumu)
+#       q2min: 14.18
+#       q2max: 16
+#       value: 0.40 +0.18-0.21 ± 0.07      
+#     - name: <AFB>(B0->K*mumu)
+#       q2min: 16
+#       q2max: 19.3
+#       value: 0.66 +0.18-0.26 ±0.19
       
-    - name: <FL>(B0->K*mumu)
-      q2min: 1
-      q2max: 6
-      value: 0.60 +0.21-0.23 ± 0.09      
-    - name: <FL>(B0->K*mumu)
-      q2min: 14.18
-      q2max: 16
-      value: 0.32 +0.14-0.14 ± 0.03      
-    - name: <FL>(B0->K*mumu)
-      q2min: 16
-      q2max: 19.3
-      value: 0.16 +0.22−0.18 ± 0.06
+#     - name: <FL>(B0->K*mumu)
+#       q2min: 1
+#       q2max: 6
+#       value: 0.60 +0.21-0.23 ± 0.09      
+#     - name: <FL>(B0->K*mumu)
+#       q2min: 14.18
+#       q2max: 16
+#       value: 0.32 +0.14-0.14 ± 0.03      
+#     - name: <FL>(B0->K*mumu)
+#       q2min: 16
+#       q2max: 19.3
+#       value: 0.16 +0.22−0.18 ± 0.06
       
-    - name: <P1>(B0->K*mumu) # A2T = P1 in Flavio
-      q2min: 1
-      q2max: 6
-      value: 1.6 +1.8−1.9 ± 2.2      
-    - name: <P1>(B0->K*mumu)
-      q2min: 14.18
-      q2max: 16
-      value: 0.4 ± 0.8 ± 0.2     
-    - name: <P1>(B0->K*mumu)
-      q2min: 16
-      q2max: 19.3
-      value: −0.9 ± 0.8 ± 0.4      
+#     - name: <P1>(B0->K*mumu) # A2T = P1 in Flavio
+#       q2min: 1
+#       q2max: 6
+#       value: 1.6 +1.8−1.9 ± 2.2      
+#     - name: <P1>(B0->K*mumu)
+#       q2min: 14.18
+#       q2max: 16
+#       value: 0.4 ± 0.8 ± 0.2     
+#     - name: <P1>(B0->K*mumu)
+#       q2min: 16
+#       q2max: 19.3
+#       value: −0.9 ± 0.8 ± 0.4      
 
-    - name: <A9>(B0->K*mumu)
-      q2min: 1
-      q2max: 6
-      value: −0.02 +0.40−0.40 ± 0.03
-    - name: <A9>(B0->K*mumu)
-      q2min: 14.18
-      q2max: 16
-      value: 0.15+0.25−0.26 ± 0.01
-    - name: <A9>(B0->K*mumu)
-      q2min: 16
-      q2max: 19.3
-      value: −0.30 +0.36−0.35 ± 0.14 
+#     - name: <A9>(B0->K*mumu)
+#       q2min: 1
+#       q2max: 6
+#       value: −0.02 +0.40−0.40 ± 0.03
+#     - name: <A9>(B0->K*mumu)
+#       q2min: 14.18
+#       q2max: 16
+#       value: 0.15+0.25−0.26 ± 0.01
+#     - name: <A9>(B0->K*mumu)
+#       q2min: 16
+#       q2max: 19.3
+#       value: −0.30 +0.36−0.35 ± 0.14 
       
-    - name: <AFB>(B+->Kmumu) # B+ -> Kmumu in the same paper, so I'll include it here
-      q2min: 1
-      q2max: 6
-      value: 0.13+0.09−0.09 ± 0.02        
-    - name: <AFB>(B+->Kmumu)
-      q2min: 14.18
-      q2max: 16
-      value: −0.05 +0.09−0.11 ± 0.03     
-    - name: <AFB>(B+->Kmumu)
-      q2min: 16
-      q2max: 23
-      value: 0.09+0.17−0.13 ± 0.03      
+#     - name: <AFB>(B+->Kmumu) # B+ -> Kmumu in the same paper, so I'll include it here
+#       q2min: 1
+#       q2max: 6
+#       value: 0.13+0.09−0.09 ± 0.02        
+#     - name: <AFB>(B+->Kmumu)
+#       q2min: 14.18
+#       q2max: 16
+#       value: −0.05 +0.09−0.11 ± 0.03     
+#     - name: <AFB>(B+->Kmumu)
+#       q2min: 16
+#       q2max: 23
+#       value: 0.09+0.17−0.13 ± 0.03      
 
-Bs -> mumu August 2011:
-  experiment: Bs -> mumu August 2011
-  url: https://cdsweb.cern.ch/record/1374913/files/BPH-11-019-pas.pdf
-  values:
-    BR(Bs->mumu): < 1.08e-8 @ 95% CL
+# Bs -> mumu August 2011:
+#   experiment: Bs -> mumu August 2011
+#   url: https://cdsweb.cern.ch/record/1374913/files/BPH-11-019-pas.pdf
+#   values:
+#     BR(Bs->mumu): < 1.08e-8 @ 95% CL
 
 Bs -> mumu July 2011:
   experiment: Bs -> mumu July 2011
