@@ -114,11 +114,11 @@
 #       q2max: 23
 #       value: 0.09+0.17−0.13 ± 0.03      
 
-# Bs -> mumu August 2011:
-#   experiment: Bs -> mumu August 2011
-#   url: https://cdsweb.cern.ch/record/1374913/files/BPH-11-019-pas.pdf
-#   values:
-#     BR(Bs->mumu): < 1.08e-8 @ 95% CL
+Bs -> mumu August 2011:
+  experiment: Bs -> mumu August 2011
+  url: https://cdsweb.cern.ch/record/1374913/files/BPH-11-019-pas.pdf
+  values:
+    BR(Bs->mumu): < 1.08e-8 @ 95% CL
 
 Bs -> mumu July 2011:
   experiment: Bs -> mumu July 2011
