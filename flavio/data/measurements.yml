@@ -15,7 +15,7 @@ B0->K*mumu August 2011 Part 2:
     - name: <AFB>(B0->K*mumu)
       q2min: 16
       q2max: 19.3
-      value: 0.10 −0.13−0.13 ± 0.06
+      value: 0.10 +0.13−0.13 ± 0.06
       
     - name: <FL>(B0->K*mumu)
       q2min: 1
@@ -33,16 +33,16 @@ B0->K*mumu August 2011 Part 2:
     - name: <dBR/dq2>(B0->K*mumu)
       q2min: 1
       q2max: 6
-      value: 0.39 ± 0.06 ± 0.02      
+      value: 0.39 +0.06-0.06 ± 0.02      
     - name: <dBR/dq2>(B0->K*mumu)
       q2min: 14.18
       q2max: 16
-      value: 0.59 ± 0.10 ± 0.03
+      value: 0.59 +0.10-0.10 ± 0.03
       
     - name: <dBR/dq2>(B0->K*mumu)
       q2min: 16
       q2max: 19.3
-      value: 0.48 ± 0.08 ± 0.03      
+      value: 0.48 +0.08-0.08 ± 0.03      
 
 
 B0->K*mumu August 2011 Part 1:
