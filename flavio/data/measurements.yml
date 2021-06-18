@@ -1,4 +1,23 @@
 # This file contains all the experimental measurements.
+Bs->mumu June 2012:
+  experiment: Bs->mumu June 2012
+  url: 
+  values:
+    BR(Bs->mumu): < 2.2e-8 @ 95% CL
+    BR(Bs->mumu): < 1.9e-8 @ 90% CL
+
+Bs->mumu Jan 2013:
+  experiment: Bs->mumu Jan 2013
+  url: https://arxiv.org/pdf/1203.3976.pdf
+  values:
+    BR(Bs->mumu): < 7.7e-9 @ 95% CL
+
+Bs->mumu March 2012: # Supercedes previous; provides an upper limit
+  experiment: Bs->mumu March 2012
+  url: https://arxiv.org/pdf/1203.4493.pdf
+  values:
+    BR(Bs->mumu): < 3.8e-9 @ 90% CL
+    BR(Bs->mumu): < 4.5e-9 @ 95% CL
 
 B0->K*mumu August 2011 Part 2:
   experiment: B0->K*mumu August 2011 Part 2
