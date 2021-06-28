@@ -1,5 +1,200 @@
 # This file contains all the experimental measurements.
-July 2012 Measurements:
+B0->K*mumu Oct 2013:
+  experiment: B0->K*mumu Oct 2013
+  url: https://arxiv.org/abs/1304.6325 #Reference 14
+  values:
+    -name: <dBR/dq2>(B0->K*mumu)
+    -q2min: 1
+    -q2max: 6
+    -value: (0.34 ± 0.03 ± 0.04 ± 0.02 +0.00−0.03) e-7
+    -name: <dBR/dq2>(B0->K*mumu)
+    -q2min: 14.18
+    -q2max: 16
+    -value: (0.56 ± 0.06 ± 0.04 ± 0.04 +0.00−0.05) e-7
+    -name: <dBR/dq2>(B0->K*mumu)
+    -q2min: 16
+    -q2max: 19
+    -value: (0.41 ± 0.04 ± 0.04 ± 0.03 +0.00−0.03) e-7
+    
+    -name: <AFB>(B0->K*mumu)
+    -q2min: 1
+    -q2max: 6
+    -value: −0.17 +0.06−0.06 +0.01−0.01 
+    -name: <AFB>(B0->K*mumu)
+    -q2min: 14.18
+    -q2max: 16
+    -value: 0.51 +0.07−0.05 +0.02−0.02    
+    -name: <AFB>(B0->K*mumu)
+    -q2min: 16
+    -q2max: 19
+    -value: 0.30 +0.08−0.08+0.01−0.02    
+    
+    -name: <FL>(B0->K*mumu)
+    -q2min: 1
+    -q2max: 6
+    -value: (2.41 ± 0.17 ± 0.14) e-8
+    -name: <FL>(B0->K*mumu)
+    -q2min: 14.18
+    -q2max: 16
+    -value: (2.41 ± 0.17 ± 0.14) e-8    
+    -name: <FL>(B0->K*mumu)
+    -q2min: 16
+    -q2max: 19
+    -value: (2.41 ± 0.17 ± 0.14) e-8    
+    
+    -name: <A9>(B0->K*mumu)
+    -q2min: 1
+    -q2max: 6
+    -value: 0.65 +0.08−0.07 +0.03−0.03 
+    -name: <A9>(B0->K*mumu)
+    -q2min: 14.18
+    -q2max: 16
+    -value: 0.33 +0.08−0.07 +0.02−0.03    
+    -name: <A9>(B0->K*mumu)
+    -q2min: 16
+    -q2max: 19
+    -value: 0.38 +0.09−0.07+0.03−0.03 
+    
+    -name: <S3>(B0->K*mumu)
+    -q2min: 1
+    -q2max: 6
+    -value: 0.03 +0.07−0.07 +0.01−0.01
+    -name: <S3>(B0->K*mumu)
+    -q2min: 14.18
+    -q2max: 16
+    -value: 0.03 +0.09−0.10 +0.01−0.01    
+    -name: <S3>(B0->K*mumu)
+    -q2min: 16
+    -q2max: 19
+    -value: −0.22 +0.10−0.09 +0.02−0.01
+    
+# B0->K*mumu April 2013:
+#   experiment: B0->K*mumu April 2013
+#   url: http://cds.cern.ch/record/1537961/files/ATLAS-CONF-2013-038.pdf #Reference 13 has been invalidated
+#   values:
+#     -name: <dBR/dq2>(B+-->Kmumu)
+#     -q2min: 1
+#     -q2max: 6
+#     -value: (2.41 ± 0.17 ± 0.14) 3-8  
+
+B+-->Kmumu September 2012:
+  experiment: B+-->Kmumu September 2012
+  url: https://arxiv.org/abs/1209.4284 #Reference 12
+  values:
+    -name: <dBR/dq2>(B+-->Kmumu)
+    -q2min: 1
+    -q2max: 6
+    -value: (2.41 ± 0.17 ± 0.14) e-8
+    -name: <dBR/dq2>(B+-->Kmumu)
+    -q2min: 14.18
+    -q2max: 16
+    -value: (2.07 ± 0.20 ± 0.08) e-8     
+    -name: <dBR/dq2>(B+-->Kmumu)
+    -q2min: 18
+    -q2max: 22
+    -value: (0.78 ± 0.10 ± 0.04) e-8  
+    
+    -name: <AFB>(B+-->Kmumu)
+    -q2min: 1
+    -q2max: 6
+    -value: 0.02 +0.05−0.03 +0.02−0.01
+    -name: <AFB>(B+-->Kmumu)
+    -q2min: 14.18
+    -q2max: 16
+    -value: −0.01 +0.12−0.06 +0.01−0.01    
+    -name: <AFB>(B+-->Kmumu)
+    -q2min: 18
+    -q2max: 22
+    -value: 0.02 +0.11−0.11 +0.01−0.01
+    
+    -name: <FH>(B+-->Kmumu)
+    -q2min: 1
+    -q2max: 6
+    -value: 0.05 +0.08−0.05 +0.04−0.02
+    -name: <FH>(B+-->Kmumu)
+    -q2min: 14.18
+    -q2max: 16
+    -value: 0.08 +0.28−0.08 +0.02−0.01     
+    -name: <FH>(B+-->Kmumu)
+    -q2min: 18
+    -q2max: 22
+    -value: 0.14 +0.31−0.14 +0.01−0.02
+    
+B+->Kmumu July 2012:
+  experiment: B+->Kmumu July 2012
+  url: https://inspirehep.net/files/4e57b65db46b7d8328b605f50325a876  #Reference 11 supercedes 4, These measurements take very long
+  values:
+    -name: <AFB>(B+-->Kmumu)
+    -q2min: 1
+    -q2max: 6
+    -value:  0.13 +0.11−0.10 ± 0.02
+    -name: <AFB>(B+-->Kmumu)
+    -q2min: 14.18
+    -q2max: 16
+    -value: −0.07 +0.08−0.08 ± 0.01
+    -name: <AFB>(B+-->Kmumu)
+    -q2min: 16
+    -q2max: 23
+    -value: 0.05 +0.18−0.10 ± 0.05   
+
+B0-K*mumu July 2012:
+  experiment: B0-K*mumu July 2012
+  url: https://inspirehep.net/files/4e57b65db46b7d8328b605f50325a876 #Reference 11 supercedes 4
+  values:
+    -name: <AFB>(B0->K*mumu)
+    -q2min: 1
+    -q2max: 6
+    -value: 0.29 +0.25−0.21 ± 0.06
+    -name: <AFB>(B0->K*mumu)
+    -q2min: 14.18
+    -q2max: 16
+    -value: 0.49 +0.10−0.09 ± 0.07
+    -name: <AFB>(B0->K*mumu)
+    -q2min: 16
+    -q2max: 19.3
+    -value: 0.42 +0.22−0.23 ± 0.09 
+    
+    -name: <FL>(B0->K*mumu)
+    -q2min: 1
+    -q2max: 6
+    -value: 0.78 +0.13−0.15 ± 0.08   
+    -name: <FL>(B0->K*mumu)
+    -q2min: 14.18
+    -q2max: 16
+    -value: 0.45 +0.12−0.12 ± 0.04   
+    -name: <FL>(B0->K*mumu)
+    -q2min: 16
+    -q2max: 19.3
+    -value: 0.09 +0.14−0.12 ± 0.08
+    
+    -name: <P1>(B0->K*mumu)
+    -q2min: 1
+    -q2max: 6
+    -value: −0.45 +2.24−2.22 ± 0.76
+    -name: <P1>(B0->K*mumu)
+    -q2min: 14.18
+    -q2max: 16
+    -value: 0.15 +0.72−0.72 ± 0.14   
+    -name: <P1>(B0->K*mumu)
+    -q2min: 16
+    -q2max: 19.3
+    -value: −0.62 +0.56−0.53 ± 0.13    
+
+    -name: <A9>(B0->K*mumu)
+    -q2min: 1
+    -q2max: 6
+    -value: 0.51 +0.28−0.29 ± 0.15   
+    -name: <A9>(B0->K*mumu)
+    -q2min: 14.18
+    -q2max: 16
+    -value: 0.16 +0.21−0.22 ± 0.03   
+    -name: <A9>(B0->K*mumu)
+    -q2min: 16
+    -q2max: 19.3
+    -value: 0.02 +0.26−0.27 ± 0.04
+   
+    
+Branching Ratios July 2012 Measurements:
   experiment: July 2012 Measurements
   url: https://inspirehep.net/files/4e57b65db46b7d8328b605f50325a876 # Reference 11, Supersedes 2
   values:
@@ -121,7 +316,7 @@ June 2012 Measurements:
       value: 0.35 +0.07−0.06 +0.07-0.02
     - name: <FL>(B0->K*mumu)
       q2min: 16
-      q2max: 19=
+      q2max: 19
       value: 0.37 +0.06−0.07 +0.03-0.04
       
     - name: <S9>(B0->K*mumu)
