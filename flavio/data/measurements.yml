@@ -540,7 +540,7 @@ Branching Ratios July 2012 Measurements:
       value: (5.09 +2.25-2.25 ± 0.57) e-8
 June 2012 Measurements:
   experiment: June 2012 Measurements
-  url: https://cds.cern.ch/record/1427691?ln=en #Reference 10
+  url: https://cds.cern.ch/record/1427691?ln=en #Reference 10 doesn't work anymore!!!
   values:
     - name: <dBR/dq2>(B0->K*mumu) # Paper has dBF/dq2 ???
       q2min: 1
@@ -605,7 +605,7 @@ June 2012 Measurements:
     - name: <S3>(B0->K*mumu)
       q2min: 16
       q2max: 19
-      value: -0.235 +0.105−0.0.05 +0.015-0.025      
+      value: -0.235 +0.05−0.05 +0.015-0.025   #double check this   
       
       
 May 2012 Branching Ratios:
