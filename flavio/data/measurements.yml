@@ -330,14 +330,14 @@
 #       q2max: 19
 #       value: −0.22 +0.10−0.09 +0.02-0.01 
     
-# B0->K*mumu April 2013:
-#   experiment: B0->K*mumu April 2013
-#   url: http://cds.cern.ch/record/1537961/files/ATLAS-CONF-2013-038.pdf #Reference 13 has been invalidated
-#   values:
-#     - name: <dBR/dq2>(B+-->Kmumu)
-#       q2min: 1
-#       q2max: 6
-#       value: (2.41 ± 0.17 ± 0.14) 3-8  
+B0->K*mumu April 2013:
+  experiment: B0->K*mumu April 2013
+  url: http://cds.cern.ch/record/1537961/files/ATLAS-CONF-2013-038.pdf #Reference 13 has been invalidated
+  values:
+    - name: <dBR/dq2>(B+-->Kmumu)
+      q2min: 1
+      q2max: 6
+      value: (2.41 ± 0.17 ± 0.14) 3-8  
 
 B+-->Kmumu September 2012:
   experiment: B+-->Kmumu September 2012
