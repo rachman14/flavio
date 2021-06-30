@@ -67,12 +67,12 @@ B->Xsmumu Dec 2013:
   experiment: B->Xsmumu Dec 2013
   url: https://arxiv.org/abs/1312.5364 #Reference 20
   values:
-    -name: <dBR/dq2>(B->Xsmumu)
+    -name: <BR>(B->Xsmumu)
     -q2min: 1
     -q2max: 6
     -value: (0.66 +0.82−0.76 +0.30−0.24 ± 0.07) e-6
 
-    -name: <dBR/dq2>(B->Xsee)
+    -name: <BR>(B->Xsee)
     -q2min: 1
     -q2max: 6   
     -value: (1.93 +0.47−0.45 +0.21−0.16 ± 0.18) e-6
