@@ -77,61 +77,61 @@
 #     -q2max: 6   
 #     -value: (1.93 +0.47−0.45 +0.21−0.16 ± 0.18) e-6
 
-B0->K*mumu Aug 2013(2):
-  experiment: B0->K*mumu Aug 2013(2)
-  url: https://arxiv.org/abs/1308.3409 # Reference 19
-  values:
-    -name: <P4p>(B0->K*mumu)
-    -q2min: 1
-    -q2max: 6
-    -value: −0.29 +0.18−0.16 ± 0.03
-    -name: <P4p>(B0->K*mumu)
-    -q2min: 14.18
-    -q2max: 16  
-    -value: 0.09 +0.35−0.27 ± 0.04  
-    -name: <P4p>(B0->K*mumu)
-    -q2min: 16
-    -q2max: 19    
-    -value: −0.35 +0.26−0.22 ± 0.03 
+# B0->K*mumu Aug 2013(2):
+#   experiment: B0->K*mumu Aug 2013(2)
+#   url: https://arxiv.org/abs/1308.3409 # Reference 19
+#   values:
+#     -name: <P4p>(B0->K*mumu)
+#     -q2min: 1
+#     -q2max: 6
+#     -value: −0.29 +0.18−0.16 ± 0.03
+#     -name: <P4p>(B0->K*mumu)
+#     -q2min: 14.18
+#     -q2max: 16  
+#     -value: 0.09 +0.35−0.27 ± 0.04  
+#     -name: <P4p>(B0->K*mumu)
+#     -q2min: 16
+#     -q2max: 19    
+#     -value: −0.35 +0.26−0.22 ± 0.03 
     
-    -name: <P5p>(B0->K*mumu)
-    -q2min: 1
-    -q2max: 6
-    -value: 0.21 +0.20−0.21 ± 0.03
-    -name: <P5p>(B0->K*mumu)
-    -q2min: 14.18
-    -q2max: 16  
-    -value: −0.79 +0.20−0.13 ± 0.18  
-    -name: <P5p>(B0->K*mumu)
-    -q2min: 16
-    -q2max: 19    
-    -value: −0.60 +0.19−0.16 ± 0.09
+#     -name: <P5p>(B0->K*mumu)
+#     -q2min: 1
+#     -q2max: 6
+#     -value: 0.21 +0.20−0.21 ± 0.03
+#     -name: <P5p>(B0->K*mumu)
+#     -q2min: 14.18
+#     -q2max: 16  
+#     -value: −0.79 +0.20−0.13 ± 0.18  
+#     -name: <P5p>(B0->K*mumu)
+#     -q2min: 16
+#     -q2max: 19    
+#     -value: −0.60 +0.19−0.16 ± 0.09
 
-    -name: <P6p>(B0->K*mumu)
-    -q2min: 1
-    -q2max: 6
-    -value: −0.18 +0.21−0.21 ± 0.03
-    -name: <P6p>(B0->K*mumu)
-    -q2min: 14.18
-    -q2max: 16  
-    -value: −0.18 +0.25−0.24 ± 0.03  
-    -name: <P6p>(B0->K*mumu)
-    -q2min: 16
-    -q2max: 19    
-    -value: 0.31 +0.38−0.37 ± 0.10
+#     -name: <P6p>(B0->K*mumu)
+#     -q2min: 1
+#     -q2max: 6
+#     -value: −0.18 +0.21−0.21 ± 0.03
+#     -name: <P6p>(B0->K*mumu)
+#     -q2min: 14.18
+#     -q2max: 16  
+#     -value: −0.18 +0.25−0.24 ± 0.03  
+#     -name: <P6p>(B0->K*mumu)
+#     -q2min: 16
+#     -q2max: 19    
+#     -value: 0.31 +0.38−0.37 ± 0.10
 
-    -name: <P8p>(B0->K*mumu)
-    -q2min: 1
-    -q2max: 6
-    -value: 0.23 +0.18−0.19 ± 0.02
-    -name: <P8p>(B0->K*mumu)
-    -q2min: 14.18
-    -q2max: 16  
-    -value: −0.20 +0.30−0.25 ± 0.03
-    -name: <P8p>(B0->K*mumu)
-    -q2min: 16
-    -q2max: 19    
-    -value: 0.06 +0.26−0.27 ± 0.03
+#     -name: <P8p>(B0->K*mumu)
+#     -q2min: 1
+#     -q2max: 6
+#     -value: 0.23 +0.18−0.19 ± 0.02
+#     -name: <P8p>(B0->K*mumu)
+#     -q2min: 14.18
+#     -q2max: 16  
+#     -value: −0.20 +0.30−0.25 ± 0.03
+#     -name: <P8p>(B0->K*mumu)
+#     -q2min: 16
+#     -q2max: 19    
+#     -value: 0.06 +0.26−0.27 ± 0.03
     
 B0->K*mumu Aug 2013(1):
   experiment: B0->K*mumu Aug 2013(2)
