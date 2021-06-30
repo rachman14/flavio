@@ -638,25 +638,25 @@
 #       q2max: 19.3
 #       value: (3.8  +1.4-1.4) e-8
       
-# Bs->mumu June 2012:
-#   experiment: Bs->mumu June 2012
-#   url: https://arxiv.org/abs/1204.0735 # Reference 8
-#   values:
-#     BR(Bs->mumu): < 2.2e-8 @ 95% CL
-#     BR(Bs->mumu): < 1.9e-8 @ 90% CL
+Bs->mumu June 2012:
+  experiment: Bs->mumu June 2012
+  url: https://arxiv.org/abs/1204.0735 # Reference 8
+  values:
+    BR(Bs->mumu): < 2.2e-8 @ 95% CL
+    BR(Bs->mumu): < 1.9e-8 @ 90% CL
 
-# Bs->mumu Jan 2013:
-#   experiment: Bs->mumu Jan 2013
-#   url: https://arxiv.org/pdf/1203.3976.pdf #Reference 7
-#   values:
-#     BR(Bs->mumu): < 7.7e-9 @ 95% CL
+Bs->mumu Jan 2013:
+  experiment: Bs->mumu Jan 2013
+  url: https://arxiv.org/pdf/1203.3976.pdf #Reference 7
+  values:
+    BR(Bs->mumu): < 7.7e-9 @ 95% CL
 
-# Bs->mumu April 2012: # Supercedes previous; provides an upper limit
-#   experiment: Bs->mumu March 2012
-#   url: https://arxiv.org/pdf/1203.4493.pdf #Reference 6
-#   values:
-#     BR(Bs->mumu): < 3.8e-9 @ 90% CL
-#     BR(Bs->mumu): < 4.5e-9 @ 95% CL
+Bs->mumu April 2012: # Supercedes previous; provides an upper limit
+  experiment: Bs->mumu March 2012
+  url: https://arxiv.org/pdf/1203.4493.pdf #Reference 6
+  values:
+    BR(Bs->mumu): < 3.8e-9 @ 90% CL
+    BR(Bs->mumu): < 4.5e-9 @ 95% CL
 
 B0->K*mumu August 2011 Part 2:
   experiment: B0->K*mumu August 2011 Part 2
