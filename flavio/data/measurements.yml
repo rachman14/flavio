@@ -181,15 +181,13 @@ Bs->phimumu July 2013(2):
   experiment: Bs->phimumu July 2013(2)
   url: https://arxiv.org/abs/1307.5024 # Reference 17 supercedes 7
   values:
-    - name: BR(Bs->mumu)
-      value: (3.0 +1.0-0.9) e-9
+    BR(Bs->mumu): (3.0 +1.0-0.9) e-9
     
 Bs->phimumu July 2013(1):
   experiment: Bs->phimumu July 2013(1)
   url: https://arxiv.org/abs/1307.5024 # Reference 16 supercedes 6
   values:
-    - name: BR(Bs->mumu)
-      value: (2.9 +1.1-1.0) e-9  
+    BR(Bs->mumu): (2.9 +1.1-1.0) e-9 
    
 Bs->phimumu May 2013:
   experiment: Bs->phimumu May 2013
