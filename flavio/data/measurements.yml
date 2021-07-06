@@ -191,48 +191,48 @@
 #     - name: BR(Bs->mumu)
 #       value: (2.9 +1.1-1.0) e-9  
    
-# Bs->phimumu May 2013:
-#   experiment: Bs->phimumu May 2013
-#   url: https://arxiv.org/abs/1305.2168
-#   values:
-#     - name: <dBR/dq2>(Bs->phimumu)
-#       q2min: 1
-#       q2max: 6
-#       value: 2.27 +0.50−0.46 ± 0.11 ± 0.23
-#     - name: <dBR/dq2>(Bs->phimumu)
-#       q2min: 14.18
-#       q2max: 16
-#       value: 4.17 +1.04−0.93 ± 0.24 ± 0.42
-#     - name: <dBR/dq2>(Bs->phimumu)
-#       q2min: 16
-#       q2max: 19
-#       value: 3.52 +0.76−0.70 ± 0.20 ± 0.35
+Bs->phimumu May 2013:
+  experiment: Bs->phimumu May 2013
+  url: https://arxiv.org/abs/1305.2168
+  values:
+    - name: <dBR/dq2>(Bs->phimumu)
+      q2min: 1
+      q2max: 6
+      value: 2.27 +0.50−0.46 ± 0.11 ± 0.23
+    - name: <dBR/dq2>(Bs->phimumu)
+      q2min: 14.18
+      q2max: 16
+      value: 4.17 +1.04−0.93 ± 0.24 ± 0.42
+    - name: <dBR/dq2>(Bs->phimumu)
+      q2min: 16
+      q2max: 19
+      value: 3.52 +0.76−0.70 ± 0.20 ± 0.35
     
-#     - name: <FL>(Bs->phimumu)
-#       q2min: 1
-#       q2max: 6
-#       value: 0.56 +0.17−0.16 ± 0.09   
-#     - name: <FL>(Bs->phimumu)
-#       q2min: 14.18
-#       q2max: 16
-#       value: 0.34 +0.18−0.17 ± 0.07   
-#     - name: <FL>(Bs->phimumu)
-#       q2min: 16
-#       q2max: 19
-#       value: 0.16 +0.17−0.10 ± 0.07
+    - name: <FL>(Bs->phimumu)
+      q2min: 1
+      q2max: 6
+      value: 0.56 +0.17−0.16 ± 0.09   
+    - name: <FL>(Bs->phimumu)
+      q2min: 14.18
+      q2max: 16
+      value: 0.34 +0.18−0.17 ± 0.07   
+    - name: <FL>(Bs->phimumu)
+      q2min: 16
+      q2max: 19
+      value: 0.16 +0.17−0.10 ± 0.07
     
-#     - name: <S3>(Bs->phimumu)
-#       q2min: 1
-#       q2max: 6
-#       value: −0.21 +0.24−0.22 ± 0.08   
-#     - name: <S3>(Bs->phimumu)
-#       q2min: 14.18
-#       q2max: 16
-#       value: −0.03 +0.29−0.31 ± 0.06    
-#     - name: <S3>(Bs->phimumu)
-#       q2min: 16
-#       q2max: 19
-#       value: 0.19 +0.30−0.31 ± 0.05
+    - name: <S3>(Bs->phimumu)
+      q2min: 1
+      q2max: 6
+      value: −0.21 +0.24−0.22 ± 0.08   
+    - name: <S3>(Bs->phimumu)
+      q2min: 14.18
+      q2max: 16
+      value: −0.03 +0.29−0.31 ± 0.06    
+    - name: <S3>(Bs->phimumu)
+      q2min: 16
+      q2max: 19
+      value: 0.19 +0.30−0.31 ± 0.05
 
 # # Can't find these observables on Flavio
 # #     - name: <A6>(Bs->phimumu)
@@ -269,14 +269,14 @@ B0->K*mumu April 2013:
       q2min: 1
       q2max: 6
       value: (0.34 ± 0.03 ± 0.04 ± 0.02 −0.03) e-7
-#     - name: <dBR/dq2>(B0->K*mumu)
-#       q2min: 14.18
-#       q2max: 16
-#       value: (0.56 ± 0.06 ± 0.04 ± 0.04 +0.00−0.05) e-7
-#     - name: <dBR/dq2>(B0->K*mumu)
-#       q2min: 16
-#       q2max: 19
-#       value: (0.41 ± 0.04 ± 0.04 ± 0.03 +0.00−0.03) e-7
+    - name: <dBR/dq2>(B0->K*mumu)
+      q2min: 14.18
+      q2max: 16
+      value: (0.56 ± 0.06 ± 0.04 ± 0.04 −0.05) e-7
+    - name: <dBR/dq2>(B0->K*mumu)
+      q2min: 16
+      q2max: 19
+      value: (0.41 ± 0.04 ± 0.04 ± 0.03 −0.03) e-7
     
     - name: <AFB>(B0->K*mumu)
       q2min: 1
