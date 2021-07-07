@@ -131,7 +131,7 @@ B+->Kmumu Mar 2014:
     - name: <FH>(B+->Kmumu)
       q2min: 3
       q2max: 4
-      value: 0.02 +0.02-0.02 +0.02-0.02  
+      value: 0.00 +0.04-0.04 +0.02-0.02  
     - name: <FH>(B+->Kmumu)
       q2min: 4
       q2max: 5
