@@ -453,7 +453,7 @@ B+-->Kmumu September 2012:
     - name: <dBR/dq2>(B+->Kmumu)
       q2min: 16
       q2max: 18
-      value: −0.09 +0.07−0.09+0.02−0.01
+      value: −0.09 +0.07−0.09 +0.02−0.01
     - name: <AFB>(B+->Kmumu)
       q2min: 18
       q2max: 22
