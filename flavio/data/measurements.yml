@@ -554,8 +554,8 @@ Bs->phimumu July 2013(1):
     BR(Bs->mumu): (2.9 +1.1-1.0) e-9 
    
 Bs->phimumu May 2013:
-  experiment: Bs->phimumu May 2013
-  url: https://arxiv.org/abs/1305.2168
+  experiment: Bs->phimumu May 2013 #Reference 15
+  url: https://arxiv.org/abs/1305.2168 
   values:
     - name: <dBR/dq2>(Bs->phimumu)
       q2min: 1
