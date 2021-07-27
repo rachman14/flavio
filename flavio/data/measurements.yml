@@ -5,7 +5,7 @@
 #   values:
 B0->K*mumu Mar 2015 17-19:
   experiment: B0->K*mumu Mar 2015 0.1-0.98
-  url: https://cds.cern.ch/record/2002772?ln=en
+  url: https://cds.cern.ch/record/2002772?ln=en # Reference 25
   values:
     - name: <FL>(B0->K*mumu)
       q2min: 17
@@ -51,7 +51,7 @@ B0->K*mumu Mar 2015 17-19:
 
 B0->K*mumu Mar 2015 15-17:
   experiment: B0->K*mumu Mar 2015 0.1-0.98
-  url: https://cds.cern.ch/record/2002772?ln=en
+  url: https://cds.cern.ch/record/2002772?ln=en # Reference 25
   values:
     - name: <FL>(B0->K*mumu)
       q2min: 15
@@ -98,7 +98,7 @@ B0->K*mumu Mar 2015 15-17:
 
 B0->K*mumu Mar 2015 4-6:
   experiment: B0->K*mumu Mar 2015 0.1-0.98
-  url: https://cds.cern.ch/record/2002772?ln=en
+  url: https://cds.cern.ch/record/2002772?ln=en # Reference 25
   values:
     - name: <FL>(B0->K*mumu)
       q2min: 4
@@ -144,7 +144,7 @@ B0->K*mumu Mar 2015 4-6:
 
 B0->K*mumu Mar 2015 2.5-4:
   experiment: B0->K*mumu Mar 2015 0.1-0.98
-  url: https://cds.cern.ch/record/2002772?ln=en
+  url: https://cds.cern.ch/record/2002772?ln=en # Reference 25
   values:
     - name: <FL>(B0->K*mumu)
       q2min: 2.5
@@ -189,7 +189,7 @@ B0->K*mumu Mar 2015 2.5-4:
 
 B0->K*mumu Mar 2015 1.1-2.5:
   experiment: B0->K*mumu Mar 2015 0.1-0.98
-  url: https://cds.cern.ch/record/2002772?ln=en
+  url: https://cds.cern.ch/record/2002772?ln=en # Reference 25
   values:
     - name: <FL>(B0->K*mumu)
       q2min: 1.1
@@ -235,7 +235,7 @@ B0->K*mumu Mar 2015 1.1-2.5:
 
 B0->K*mumu Mar 2015 0.1-0.98:
   experiment: B0->K*mumu Mar 2015 0.1-0.98
-  url: https://cds.cern.ch/record/2002772?ln=en
+  url: https://cds.cern.ch/record/2002772?ln=en # Reference 25
   values:
     - name: <FL>(B0->K*mumu)
       q2min: 0.1
