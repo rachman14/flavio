@@ -495,7 +495,7 @@ Branching Ratios Nov 2014:
 
 Rk Observable June 2014:
   experiment: Rk Observable June 2014
-  url: https://arxiv.org/abs/1406.6482
+  url: https://arxiv.org/abs/1406.6482 #Reference 23
   values: 
     - name: <Rmue>(B+->Kll)
       q2min: 1
