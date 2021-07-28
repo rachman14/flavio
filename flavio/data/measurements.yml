@@ -1,52 +1,215 @@
 #  This file contains all the experimental measurements.
-Test:
-  experiment: LHCb
-  inspire: Aaij:2020nrf
+March B->K*mumu 2018 0.04-2.0:
+  experiment: ATLAS
+  inspire: Aaboud:2018krd #This is the same data as Reference 33 but i added correlations from Reference 36
   values:
     - name: <FL>(B0->K*mumu)
-      q2min: 0.1
-      q2max: 0.98
-      value:  0.255 +0.032-0.032 ± 0.007
+      q2min: 0.04
+      q2max: 2
+      value: 0.44 ± 0.08 ± 0.07
     - name: <S3>(B0->K*mumu)
-      q2min: 0.1
-      q2max: 0.98
-      value:  0.034 +0.044-0.044 ± 0.003
+      q2min: 0.04
+      q2max: 2
+      value: -0.02 ± 0.09 ± 0.02
     - name: <S4>(B0->K*mumu)
-      q2min: 0.1
-      q2max: 0.98
-      value:  0.059 +0.050-0.050 ± 0.004
+      q2min: 0.04
+      q2max: 2
+      value: 0.19 ± 0.25 ± 0.10      
     - name: <S5>(B0->K*mumu)
-      q2min: 0.1
-      q2max: 0.98
-      value:  0.227 +0.041-0.041 ± 0.008
-    - name: <AFB>(B0->K*mumu)
-      q2min: 0.1
-      q2max: 0.98
-      value: -0.004 +0.040-0.040 ± 0.004
+      q2min: 0.04
+      q2max: 2
+      value: 0.33 ± 0.13 ± 0.06      
     - name: <S7>(B0->K*mumu)
-      q2min: 0.1
-      q2max: 0.98
-      value:  0.006 +0.042-0.042 ± 0.002
+      q2min: 0.04
+      q2max: 2
+      value: -0.09 ± 0.10 ± 0.02
     - name: <S8>(B0->K*mumu)
-      q2min: 0.1
-      q2max: 0.98
-      value: -0.003 +0.051-0.051 ± 0.001
-    - name: <S9>(B0->K*mumu)
-      q2min: 0.1
-      q2max: 0.98
-      value: -0.055 +0.041-0.041 ± 0.002
-  correlation: [[1.00, -0.00, -0.03, 0.09, 0.03, -0.01, 0.06, 0.03],
-               [1.00, 0.02, 0.14,  0.02, -0.06, 0.01, -0.01],
-               [1.00, 0.06, 0.15, -0.03, 0.06, 0.00],
-               [1.00, 0.04, -0.03, -0.01, 0.00],
-               [1.00, -0.02, -0.01, -0.02],
-               [1.00, -0.04, 0.10],
-               [1.00, 0.02],
-               [1.00]]
-# B0->K*mumu Mar 2015:
-#   experiment:
-#   url:
-#   values:
+      q2min: 0.04
+      q2max: 2
+      value: -0.11 ± 0.19 ± 0.07      
+  correlation: [[1.00, 0.11, -0.13, 0.03, 0.16, 0.24],
+               [1.00, 0.31, 0.28, 0.73, 0.45],
+               [1.00, 0.58, 0.19, 0.22],
+               [1.00 0.14 0.28],
+               [1.00, 0.59],
+               [1.00]]        
+
+March B->K*mumu 2018 2.0-4.0:
+  experiment: ATLAS
+  inspire: Aaboud:2018krd
+  values:
+    - name: <FL>(B0->K*mumu)
+      q2min: 2
+      q2max: 4
+      value: 0.64 ± 0.11 ± 0.05
+    - name: <S3>(B0->K*mumu)
+      q2min: 2
+      q2max: 4
+      value: -0.15 ± 0.10 ± 0.07
+    - name: <S4>(B0->K*mumu)
+      q2min: 2
+      q2max: 4
+      value: -0.47 ± 0.19 ± 0.10      
+    - name: <S5>(B0->K*mumu)
+      q2min: 2
+      q2max: 4
+      value: -0.16 ± 0.15 ± 0.05
+    - name: <S7>(B0->K*mumu)
+      q2min: 2
+      q2max: 4
+      value: 0.15 ± 0.14 ± 0.09      
+    - name: <S8>(B0->K*mumu)
+      q2min: 2
+      q2max: 4
+      value: 0.41 ± 0.16 ± 0.15      
+  correlation: [[1.00, 0.27, 0.35, -0.04, -0.15, -0.37],
+               [1.00, -0.08, -0.44, -0.09, -0.20],
+               [1.00, 0.60, -0.02, -0.12],
+               [1.00, -0.11, -0.20],
+               [1.00, 0.63],
+               [1.00]] 
+               
+March B->K*mumu 2018 4.0-6.0:
+  experiment: ATLAS
+  inspire: Aaboud:2018krd
+  values:
+    - name: <FL>(B0->K*mumu)
+      q2min: 4
+      q2max: 6
+      value: 0.42 ± 0.13 ± 0.12
+    - name: <S3>(B0->K*mumu)
+      q2min: 4
+      q2max: 6
+      value: 0.00 ± 0.12 ± 0.07
+    - name: <S4>(B0->K*mumu)
+      q2min: 4
+      q2max: 6
+      value: 0.40 ± 0.21 ± 0.09
+    - name: <S5>(B0->K*mumu)
+      q2min: 4
+      q2max: 6
+      value: 0.13 ± 0.18 ± 0.07
+    - name: <S7>(B0->K*mumu)
+      q2min: 4
+      q2max: 6
+      value: 0.03 ± 0.13 ± 0.07      
+    - name: <S8>(B0->K*mumu)
+      q2min: 4
+      q2max: 6
+      value: -0.09 ± 0.16 ± 0.04      
+  correlation: [[1.00, 0.33, -0.18, 0.04, 0.22, 0.28],
+               [1.00, 0.15, 0.23, 0.60, 0.05],
+               [1.00, 0.52, 0.03, 0.01],
+               [1.00, 0.28, 0.27],
+               [1.00, 0.60],
+               [1.00]] 
+               
+March B->K*mumu 2018 0.04-4.0:
+  experiment: ATLAS
+  inspire: Aaboud:2018krd
+  values:
+    - name: <FL>(B0->K*mumu)
+      q2min: 0.04
+      q2max: 4
+      value: 0.52 ± 0.07 ± 0.06
+    - name: <S3>(B0->K*mumu)
+      q2min: 0.04
+      q2max: 4
+      value: -0.05 ± 0.06 ± 0.04
+    - name: <S4>(B0->K*mumu)
+      q2min: 0.04
+      q2max: 4
+      value: -0.19 ± 0.16 ± 0.09
+    - name: <S5>(B0->K*mumu)
+      q2min: 0.04
+      q2max: 4
+      value: 0.16 ± 0.10 ± 0.04
+    - name: <S7>(B0->K*mumu)
+      q2min: 0.04
+      q2max: 4
+      value: 0.01 ± 0.08 ± 0.05      
+    - name: <S8>(B0->K*mumu)
+      q2min: 0.04
+      q2max: 4
+      value: 0.15 ± 0.13 ± 0.10
+  correlation: [[1.00, 0.08, 0.05, 0.01, 0.18, 0.14],
+               [1.00, -0.04, 0.03, 0.29, -0.16],
+               [1.00, 0.79, 0.08, 0.03],
+               [1.00, 0.03, -0.02],
+               [1.00, 0.60],
+               [1.00]] 
+               
+March B->K*mumu 2018 1.1-6.0:
+  experiment: ATLAS
+  inspire: Aaboud:2018krd
+  values:
+    - name: <FL>(B0->K*mumu)
+      q2min: 1.1
+      q2max: 6
+      value: 0.56 ± 0.07 ± 0.06
+    - name: <S3>(B0->K*mumu)
+      q2min: 1.1
+      q2max: 6
+      value: -0.04 ± 0.07 ± 0.03
+    - name: <S4>(B0->K*mumu)
+      q2min: 1.1
+      q2max: 6
+      value: 0.03 ± 0.14 ± 0.07
+    - name: <S5>(B0->K*mumu)
+      q2min: 1.1
+      q2max: 6
+      value: 0.00 ± 0.10 ± 0.03      
+    - name: <S7>(B0->K*mumu)
+      q2min: 1.1
+      q2max: 6
+      value: 0.02 ± 0.08 ± 0.06
+    - name: <S8>(B0->K*mumu)
+      q2min: 1.1
+      q2max: 6
+      value: 0.09 ± 0.11 ± 0.08      
+  correlation: [[1.00, 0.05, 0.00, 0.07, 0.18, -0.03],
+               [1.00, 0.41, 0.46, 0.32, -0.01],
+               [1.00, 0.60, 0.09, 0.03],
+               [1.00, 0.17, 0.24],
+               [1.00, 0.67],
+               [1.00]] 
+               
+March B->K*mumu 2018 0.04-6.0:
+  experiment: ATLAS
+  inspire: Aaboud:2018krd
+  values:
+    - name: <FL>(B0->K*mumu)
+      q2min: 0.04
+      q2max: 6
+      value: 0.50 ± 0.06 ± 0.04
+    - name: <S3>(B0->K*mumu)
+      q2min: 0.04
+      q2max: 6
+      value: -0.04 ± 0.06 ± 0.03
+    - name: <S4>(B0->K*mumu)
+      q2min: 0.04
+      q2max: 6
+      value: 0.03 ± 0.13 ± 0.07
+    - name: <S5>(B0->K*mumu)
+      q2min: 0.04
+      q2max: 6
+      value: 0.14 ± 0.09 ± 0.03
+    - name: <S7>(B0->K*mumu)
+      q2min: 0.04
+      q2max: 6
+      value: 0.02 ± 0.07 ± 0.05
+    - name: <S8>(B0->K*mumu)
+      q2min: 0.04
+      q2max: 6
+      value: 0.05 ± 0.10 ± 0.07
+  correlation: [[1.00, 0.03, 0.01, -0.10, 0.13, 0.06],
+               [1.00, -0.02, -0.09, 0.32, -0.01],
+               [1.00, 0.68, 0.00, 0.04],
+               [1.00, -0.05, 0.03],
+               [1.00, 0.65],
+               [1.00]] 
+               
+
 B0->K*mumu Mar 2015 17-19:
   experiment: B0->K*mumu Mar 2015 0.1-0.98
   url: https://cds.cern.ch/record/2002772?ln=en # Reference 25
