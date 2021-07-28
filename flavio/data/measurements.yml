@@ -10,7 +10,7 @@ B0->K*mumu Mar 2015 17-19:
     - name: <FL>(B0->K*mumu)
       q2min: 17
       q2max: 19
-      value: 0.354 +0.048−0.048 ± 0.025
+      value: 1 #0.354 +0.048−0.048 ± 0.025
     - name: <S3>(B0->K*mumu)
       q2min: 17
       q2max: 19
