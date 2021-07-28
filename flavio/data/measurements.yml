@@ -1,38 +1,38 @@
 #  This file contains all the experimental measurements.
-March B->K*mumu 2018 0.04-2.0:
-  experiment: ATLAS
-  inspire: Aaboud:2018krd #This is the same data as Reference 33 but i added correlations from Reference 36
-  values:
-    - name: <FL>(B0->K*mumu)
-      q2min: 0.04
-      q2max: 2
-      value: 0.44 ± 0.08 ± 0.07
-    - name: <S3>(B0->K*mumu)
-      q2min: 0.04
-      q2max: 2
-      value: -0.02 ± 0.09 ± 0.02
-    - name: <S4>(B0->K*mumu)
-      q2min: 0.04
-      q2max: 2
-      value: 0.19 ± 0.25 ± 0.10      
-    - name: <S5>(B0->K*mumu)
-      q2min: 0.04
-      q2max: 2
-      value: 0.33 ± 0.13 ± 0.06      
-    - name: <S7>(B0->K*mumu)
-      q2min: 0.04
-      q2max: 2
-      value: -0.09 ± 0.10 ± 0.02
-    - name: <S8>(B0->K*mumu)
-      q2min: 0.04
-      q2max: 2
-      value: -0.11 ± 0.19 ± 0.07      
-  correlation: [[1.00, 0.11, -0.13, 0.03, 0.16, 0.24],
-               [1.00, 0.31, 0.28, 0.73, 0.45],
-               [1.00, 0.58, 0.19, 0.22],
-               [1.00 0.14 0.28],
-               [1.00, 0.59],
-               [1.00]]        
+# March B->K*mumu 2018 0.04-2.0:
+#   experiment: ATLAS
+#   inspire: Aaboud:2018krd #This is the same data as Reference 33 but i added correlations from Reference 36
+#   values:
+#     - name: <FL>(B0->K*mumu)
+#       q2min: 0.04
+#       q2max: 2
+#       value: 0.44 ± 0.08 ± 0.07
+#     - name: <S3>(B0->K*mumu)
+#       q2min: 0.04
+#       q2max: 2
+#       value: -0.02 ± 0.09 ± 0.02
+#     - name: <S4>(B0->K*mumu)
+#       q2min: 0.04
+#       q2max: 2
+#       value: 0.19 ± 0.25 ± 0.10      
+#     - name: <S5>(B0->K*mumu)
+#       q2min: 0.04
+#       q2max: 2
+#       value: 0.33 ± 0.13 ± 0.06      
+#     - name: <S7>(B0->K*mumu)
+#       q2min: 0.04
+#       q2max: 2
+#       value: -0.09 ± 0.10 ± 0.02
+#     - name: <S8>(B0->K*mumu)
+#       q2min: 0.04
+#       q2max: 2
+#       value: -0.11 ± 0.19 ± 0.07      
+#   correlation: [[1.00, 0.11, -0.13, 0.03, 0.16, 0.24],
+#                [1.00, 0.31, 0.28, 0.73, 0.45],
+#                [1.00, 0.58, 0.19, 0.22],
+#                [1.00 0.14 0.28],
+#                [1.00, 0.59],
+#                [1.00]]        
 
 # March B->K*mumu 2018 2.0-4.0:
 #   experiment: ATLAS
