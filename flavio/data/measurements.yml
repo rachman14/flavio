@@ -1,4 +1,60 @@
 #  This file contains all the experimental measurements.
+Belle RK 2019:
+  experiment: Belle
+  inspire: Abdesselam:2019lab
+  values:
+    - name: <Rmue>(B+->Kll)
+      q2min: 0.1
+      q2max: 4.0
+      value: 0.92 + 0.27 - 0.24 ± 0.05
+    - name: <Rmue>(B0->Kll)
+      q2min: 0.1
+      q2max: 4.0
+      value: 1.5 + 1.2 - 1.0 ± 0.1
+    - name: <Rmue>(B+->Kll)
+      q2min: 4.0
+      q2max: 8.12
+      value: 1.22 + 0.42 - 0.37 ± 0.07
+    - name: <Rmue>(B0->Kll)
+      q2min: 4.0
+      q2max: 8.12
+      value: 0.50 + 0.39 - 0.30 ± 0.03
+    - name: <Rmue>(B+->Kll)
+      q2min: 1.0
+      q2max: 6.0
+      value: 1.31 + 0.34 - 0.31 ± 0.07
+    - name: <Rmue>(B0->Kll)
+      q2min: 1.0
+      q2max: 6.0
+      value: 0.53 + 0.44 - 0.33 ± 0.03
+    - name: <Rmue>(B+->Kll)
+      q2min: 14.18
+      q2max: 19.0
+      value: 1.08 + 0.30 - 0.27 ± 0.06
+    - name: <Rmue>(B0->Kll)
+      q2min: 14.18
+      q2max: 19.0
+      value: 1.52 + 1.23 - 0.97 ± 0.10
+      
+      # differential branching ratios from Reference 41
+#     - name: <dBR/dq2>(B0->Kmumu)
+#       q2min: 1
+#       q2max: 6
+#       value: 0.31+0.22-0.16 ±0.01    
+#     - name: <dBR/dq2>(B0->Kmumu)
+#       q2min: 14.18
+#       q2max: 23
+#       value: 0.49+0.22-0.18±0.01 
+      
+#     - name: <dBR/dq2>(B+->Kmumu)
+#       q2min: 1
+#       q2max: 6
+#       value: 1.52 + 1.23 - 0.97 ± 0.10      
+#     - name: <dBR/dq2>(B+->Kmumu)
+#       q2min: 14.18
+#       q2max: 23
+#       value: 1.52 + 1.23 - 0.97 ± 0.10 
+      
 March B->K*mumu 2018 0.04-2.0:
   experiment: ATLAS
   inspire: Aaboud:2018krd #This is the same data as Reference 33 but i added correlations from Reference 36
@@ -10429,44 +10485,6 @@ Belle RK* 2019:
       q2min: 15
       q2max: 19
       value: 1.12 + 0.61 - 0.36 ± 0.10
-
-
-Belle RK 2019:
-  experiment: Belle
-  inspire: Abdesselam:2019lab
-  values:
-    - name: <Rmue>(B+->Kll)
-      q2min: 0.1
-      q2max: 4.0
-      value: 0.92 + 0.27 - 0.24 ± 0.05
-    - name: <Rmue>(B0->Kll)
-      q2min: 0.1
-      q2max: 4.0
-      value: 1.5 + 1.2 - 1.0 ± 0.1
-    - name: <Rmue>(B+->Kll)
-      q2min: 4.0
-      q2max: 8.12
-      value: 1.22 + 0.42 - 0.37 ± 0.07
-    - name: <Rmue>(B0->Kll)
-      q2min: 4.0
-      q2max: 8.12
-      value: 0.50 + 0.39 - 0.30 ± 0.03
-    - name: <Rmue>(B+->Kll)
-      q2min: 1.0
-      q2max: 6.0
-      value: 1.31 + 0.34 - 0.31 ± 0.07
-    - name: <Rmue>(B0->Kll)
-      q2min: 1.0
-      q2max: 6.0
-      value: 0.53 + 0.44 - 0.33 ± 0.03
-    - name: <Rmue>(B+->Kll)
-      q2min: 14.18
-      q2max: 19.0
-      value: 1.08 + 0.30 - 0.27 ± 0.06
-    - name: <Rmue>(B0->Kll)
-      q2min: 14.18
-      q2max: 19.0
-      value: 1.52 + 1.23 - 0.97 ± 0.10
 
 
 LHCb RK 2019:
