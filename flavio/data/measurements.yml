@@ -1,4 +1,48 @@
 #  This file contains all the experimental measurements.
+Test:
+  experiment: LHCb
+  inspire: Aaij:2020nrf
+  values:
+    - name: <FL>(B0->K*mumu)
+      q2min: 0.1
+      q2max: 0.98
+      value:  0.255 +0.032-0.032 ± 0.007
+    - name: <S3>(B0->K*mumu)
+      q2min: 0.1
+      q2max: 0.98
+      value:  0.034 +0.044-0.044 ± 0.003
+    - name: <S4>(B0->K*mumu)
+      q2min: 0.1
+      q2max: 0.98
+      value:  0.059 +0.050-0.050 ± 0.004
+    - name: <S5>(B0->K*mumu)
+      q2min: 0.1
+      q2max: 0.98
+      value:  0.227 +0.041-0.041 ± 0.008
+    - name: <AFB>(B0->K*mumu)
+      q2min: 0.1
+      q2max: 0.98
+      value: -0.004 +0.040-0.040 ± 0.004
+    - name: <S7>(B0->K*mumu)
+      q2min: 0.1
+      q2max: 0.98
+      value:  0.006 +0.042-0.042 ± 0.002
+    - name: <S8>(B0->K*mumu)
+      q2min: 0.1
+      q2max: 0.98
+      value: -0.003 +0.051-0.051 ± 0.001
+    - name: <S9>(B0->K*mumu)
+      q2min: 0.1
+      q2max: 0.98
+      value: -0.055 +0.041-0.041 ± 0.002
+  correlation: [[1.00, -0.00, -0.03, 0.09, 0.03, -0.01, 0.06, 0.03],
+               [1.00, 0.02, 0.14,  0.02, -0.06, 0.01, -0.01],
+               [1.00, 0.06, 0.15, -0.03, 0.06, 0.00],
+               [1.00, 0.04, -0.03, -0.01, 0.00],
+               [1.00, -0.02, -0.01, -0.02],
+               [1.00, -0.04, 0.10],
+               [1.00, 0.02],
+               [1.00]]
 # B0->K*mumu Mar 2015:
 #   experiment:
 #   url:
