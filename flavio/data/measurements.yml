@@ -54,31 +54,31 @@ B0->K*mumu Mar 2015 17-19:
     - name: <FL>(B0->K*mumu)
       q2min: 17
       q2max: 19
-      value: 0.354 +0.048−0.048 ± 0.025
+      value: 0.354 +0.048-0.048 ± 0.025
     - name: <S3>(B0->K*mumu)
       q2min: 17
       q2max: 19
-      value: -0.188 +0.076−0.086 ± 0.017    
+      value: -0.188 +0.076-0.086 ± 0.017    
     - name: <S4>(B0->K*mumu)
       q2min: 17
       q2max: 19
-      value: -0.266 +0.065−0.071 ± 0.010
+      value: -0.266 +0.065-0.071 ± 0.010
     - name: <S5>(B0->K*mumu)
       q2min: 17
       q2max: 19
-      value: -0.323 +0.062−0.069 ± 0.009    
+      value: -0.323 +0.062-0.069 ± 0.009    
     - name: <AFB>(B0->K*mumu)
       q2min: 17
       q2max: 19
-      value: 0.305 +0.048−0.046 ± 0.013       
+      value: 0.305 +0.048-0.046 ± 0.013       
     - name: <S7>(B0->K*mumu)
       q2min: 17
       q2max: 19
-      value: 0.044 +0.072−0.073 ± 0.013       
+      value: 0.044 +0.072-0.073 ± 0.013       
     - name: <S8>(B0->K*mumu)
       q2min: 17
       q2max: 19
-      value: 0.013 +0.067−0.071 ± 0.005
+      value: 0.013 +0.067-0.071 ± 0.005
     - name: <S9>(B0->K*mumu)
       q2min: 17
       q2max: 19
