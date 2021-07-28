@@ -1379,6 +1379,7 @@ LHCb Results 2016 4.0-6.0:
     - name: <FL>(B0->K*mumu)
       q2min: 4.0
       q2max: 6.0
+      value:  0.611 +0.052-0.053 ± 0.017      
     - name: <S3>(B0->K*mumu)
       q2min: 4.0
       q2max: 6.0
@@ -1419,7 +1420,6 @@ LHCb Results 2016 4.0-6.0:
 LHCb Results 2016 15.0-19.0:
   experiment: LHCb Past Results
   values:      
-      value:  0.611 +0.052-0.053 ± 0.017
     - name: <FL>(B0->K*mumu)
       q2min: 15.0
       q2max: 19.0
