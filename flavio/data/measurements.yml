@@ -418,7 +418,7 @@ B0->K*mumu Mar 2015 4-6:
       q2min: 4
       q2max: 6
       value: 0.035 +0.069-0.067 ± 0.006     
-#     - name: <S4>(B0->K*mumu)
+    - name: <S4>(B0->K*mumu)
       q2min: 4
       q2max: 6
       value: -0.219 +0.086-0.084 ± 0.008   
